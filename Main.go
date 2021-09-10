@@ -1,1 +1,7 @@
-package Go_Course_Part1
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Print("wassaup")
+}
