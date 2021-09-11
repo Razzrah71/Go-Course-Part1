@@ -1,1 +1,5 @@
-package Go_Course_Part1
+package hello
+
+func Hello() string {
+	return "Hello, World."
+}
